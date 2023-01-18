@@ -15,12 +15,12 @@ global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
 global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
 
 // Othr
-global.owner = ['6281252848955']
+global.owner = ['6738359736']
 global.premium = ['0']
-global.ownername = 'znan'
-global.botname = 'zets - bot'
-global.wm = '© zets'
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴢᴇᴛꜱ ッ'
+global.ownername = 'envy'
+global.botname = 'envy - bot'
+global.wm = '© envy'
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ENVY ッ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '∘'
